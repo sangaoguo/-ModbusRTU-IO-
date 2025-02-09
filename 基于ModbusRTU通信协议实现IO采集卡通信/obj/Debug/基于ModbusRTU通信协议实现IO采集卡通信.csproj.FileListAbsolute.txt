@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\bin\Debug\基于ModbusRTU通信协议实现IO采集卡通信.exe.config
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\bin\Debug\基于ModbusRTU通信协议实现IO采集卡通信.exe
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\bin\Debug\基于ModbusRTU通信协议实现IO采集卡通信.pdb
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\obj\Debug\基于ModbusRTU通信协议实现IO采集卡通信.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\obj\Debug\基于ModbusRTU通信协议实现IO采集卡通信.FrmIocard.resources
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\obj\Debug\基于ModbusRTU通信协议实现IO采集卡通信.Properties.Resources.resources
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\obj\Debug\基于ModbusRTU通信协议实现IO采集卡通信.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\obj\Debug\基于ModbusRTU通信协议实现IO采集卡通信.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\obj\Debug\基于ModbusRTU通信协议实现IO采集卡通信.exe
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\obj\Debug\基于ModbusRTU通信协议实现IO采集卡通信.pdb
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\bin\Debug\NModbus4.dll
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\bin\Debug\NModbus4.xml
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\obj\Debug\__Modbus.3053FFD1.Up2Date
+C:\Users\Administrator\source\repos\swjshizhan\基于ModbusRTU通信协议实现IO采集卡通信\obj\Debug\基于ModbusRTU通信协议实现IO采集卡通信.Frmcommnityset.resources
